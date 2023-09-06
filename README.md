@@ -34,5 +34,6 @@ Estudo de Caso da Aula 23/08:
 5. Quais os tipo únicos de condições de venda? 
 6. Qual o tipo de condição de venda que tem maior valor de venda das casas?
 
-Aula 06/09: Dados Numéricos e Dados Categoricos
+Aula 06/09: DADOS NUMÉRICOS E DADOS CATEGÓRICOS
+* Métodos: StandardScaler e One Hot Coding
 
